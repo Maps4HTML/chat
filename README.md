@@ -1,2 +1,2 @@
 # chat
-Experiment to implement gitter for chat
+Repo for gitter chat
