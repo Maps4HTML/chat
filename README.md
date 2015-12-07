@@ -1,2 +1,2 @@
 # chat
-Repo for gitter chat
+Repo for community communication
