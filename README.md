@@ -15,7 +15,7 @@ GitHub Issues are preferred for discussion of any particular specification.
 - Public mailing list:
 You can send comments to the W3C Maps4HTML mailing list.
 Please send them to
-[public-maps4html@w3.org](mailto:public-maps4html@w3.org) ([subscribe](public-maps4html-request@w3.org),
+[public-maps4html@w3.org](mailto:public-maps4html@w3.org) ([subscribe](mailto:public-maps4html-request@w3.org?subject=subscribe),
 [archives](https://lists.w3.org/Archives/Public/public-maps4html/))
 
 - Discuss mapping-related Web standards on WICG Discourse: https://discourse.wicg.io/c/web-mapping/22 ([about the Web mapping category](https://discourse.wicg.io/t/about-the-web-mapping-category/1179))
